@@ -21,7 +21,7 @@ repository               : "DenFuentes/DenFuentes.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/docs/IMG_1573.JPG"
+  avatar           : "/images/LinkedInPFP.jpg"
   name             : "Denis Fuentes"
   pronouns         : "he/him"  
   bio              : "Senior Computer Science student at The University of Houston."
