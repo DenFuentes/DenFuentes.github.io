@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /
 title: "Denis Fuentes"
 author_profile: true
