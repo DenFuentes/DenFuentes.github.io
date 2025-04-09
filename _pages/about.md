@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 permalink: /
 title: "Denis Fuentes"
 author_profile: true
