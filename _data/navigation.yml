@@ -10,4 +10,4 @@ main:
     url: "/docs/DenisFuentes_Resumev02.pdf"
     
   - title : "Projects"
-    permalink: projects.md
+    permalink: /projects/
