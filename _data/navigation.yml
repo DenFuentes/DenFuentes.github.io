@@ -10,4 +10,4 @@ main:
     url: "/docs/DenisFuentes_Resumev02.pdf"
     
   - title : "Portfolio"
-    permalink: /portfolio/
+    permalink: "/portfolio/"
