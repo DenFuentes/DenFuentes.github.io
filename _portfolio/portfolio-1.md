@@ -15,12 +15,14 @@ Developed as a full‑stack web application that streamlines the process of mana
 GitHub Repository:  
 [sudoneoox/Picton](https://github.com/sudoneoox/Picton)
 
-Youtube Demo:
-[Watch the video walkthrough](https://www.youtube.com/watch?v=zrtNUjbKpgg)
-    
-<iframe width="560" height="315"
+YouTube Demo:  
+[Watch the video walkthrough](https://youtu.be/zrtNUjbKpgg)
+
+<iframe
+  width="560" height="315"
   src="https://www.youtube.com/embed/zrtNUjbKpgg"
   frameborder="0"
   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen>
 </iframe>
+
