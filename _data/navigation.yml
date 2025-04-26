@@ -9,5 +9,5 @@ main:
   - title: "Resume"
     url: "/docs/DenisFuentes_Resumev02.pdf"
     
-  - title : "Projects"
-    permalink: /projects/
+  - title : "Portfolio"
+    permalink: /portfolio/
